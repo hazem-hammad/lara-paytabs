@@ -5,11 +5,11 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "baselrabia",
-            "email": "baselrabia@gmail.com"
+            "name": "Hazem Hamaad",
+            "email": "hazem.hamaad@outlook.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": "^8.0.1"
     },
